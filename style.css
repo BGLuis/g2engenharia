@@ -133,7 +133,7 @@ html{
 body{
     /* background-color: red; */
     overflow-x: hidden;
-    width: 100vmin;
+    width: 100vw;
 }
 
 #barra{
