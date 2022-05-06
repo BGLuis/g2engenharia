@@ -133,7 +133,7 @@ html{
 body{
     /* background-color: red; */
     overflow-x: hidden;
-    width: 100vw;
+    width:100vw;
 }
 
 #barra{
@@ -900,6 +900,12 @@ body{
         margin-top: 0;
         left: 0;
         width: 100%;
+    }
+
+    #sobre .experiencia{
+        display: flex;
+        justify-content: center;
+        padding: 0;
     }
 
     #baner .conteiner h1{
