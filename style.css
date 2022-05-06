@@ -901,6 +901,10 @@ body{
         width: 100%;
     }
 
+    #baner .conteiner h1{
+        font-size: 58px;
+    }
+
     #valores .valores{
         flex-direction: column;
     }
